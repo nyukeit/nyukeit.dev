@@ -57,7 +57,7 @@ h2,h3 {
 #profileimg {
   width: 80px;
   height: 80px;
-  border-radius: 100%;
+  /* border-radius: 100%; */
 }
 
 .skillimg {
