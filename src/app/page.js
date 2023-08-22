@@ -19,10 +19,7 @@ export default function Home() {
         </nav> 
         </div> */}
         <div className="bg-yellow-700 h-screen p-6">
-          <h1 className="text-6xl font-bold">Hello!</h1>
-        </div>
-        <div className="h-screen p-6">
-          <h1 className="text-6xl font-bold">Hello!</h1>
+          <h1 className="text-6xl font-bold">Coming Soon!</h1>
         </div>
         {/* <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <p className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0">
