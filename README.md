@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Personal Portfolio Website Portfolio
 
-## Getting Started
+I am glad you are here. There isn't much to see here for now. You could visit my website instead which is linked on the right.
 
-First, run the development server:
+I have started getting into Frontend and Full-Stack development and for now, this website is solely based on HTML and CSS. I will keep on upgrading this as time goes and I learn new things.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+If you have a job for a Junior / Apprentice Web Developer with the MERN stack, I am happy to listen to remote offers or offers in South of France.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Pepites
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+If you are interested in my Pepites projects, here are some links to my other repositories and their respective websites.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+| Name       | Repo Link                                        | Website                                                 |
+| ---------- | ------------------------------------------------ | ------------------------------------------------------- |
+| Simon Game | [Repo](https://github.com/nyukeit/js-simon-game) | [Website](https://gilded-kataifi-a4b841.netlify.app/)   |
+| Drum Kit   | [Repo](https://github.com/nyukeit/js-drum-kit)   | [Website](https://mellow-sprinkles-fc02f5.netlify.app/) |
+| Dice Roll  | [Repo](https://github.com/nyukeit/js-dice-roll)  | [Website](https://js-drum-kit-nyukeit.netlify.app/)     |
 
-## Learn More
+### DevOps
 
-To learn more about Next.js, take a look at the following resources:
+| Name                                | Repo Link                                                  | Website |
+| ----------------------------------- | ---------------------------------------------------------- | ------- |
+| Infra Optimization                  | [Repo](https://github.com/nyukeit/fixing-infra-op)         |         |
+| WordPress with Kubernetes           | [Repo](https://github.com/nyukeit/Wordpress-K8S-NFS)       |         |
+| WordPress using Ansible & Terraform | [Repo](https://github.com/nyukeit/wordpress-ansible-setup) |         |
+| Ansible Role for WordPress          | [Repo](https://github.com/nyukeit/wordpress-ansible-role)  |         |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
