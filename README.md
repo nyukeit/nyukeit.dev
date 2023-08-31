@@ -1,4 +1,4 @@
-# Personal Portfolio Website Portfolio
+# Personal Portfolio Website Repo
 
 I am glad you are here. There isn't much to see here for now. You could visit my website instead which is linked on the right.
 
