@@ -1,0 +1,49 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  color: #3C474B;
+}
+
+.snow {
+  color: #FBF5F3;
+}
+
+.space {
+  color: #3C474B;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 4.5rem;
+  color: #3C474B;
+  /* font-family: 'Victor Mono', monospace; */
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.profile-links {
+  width: 75%;
+  display: inline;
+}
+
+#projects {
+  background-color: #48A9A6;
+  color: #FBF5F3;
+}
+
+a {
+  text-decoration: none;
+  color: #3C474B;
+}
+
+#left-column {
+  background-color: #1A1F16;
+  color: #FBF5F3;
+}
+
+#right-column {
+  background-color: #FBF5F3;
+  ;
+}
