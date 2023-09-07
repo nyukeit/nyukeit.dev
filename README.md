@@ -6,7 +6,7 @@ I have started getting into Frontend and Full-Stack development and for now, thi
 
 If you have a job for a Junior / Apprentice Web Developer with the MERN stack, I am happy to listen to remote offers or offers in South of France.
 
-### Pepites
+## Pepites
 
 If you are interested in my Pepites projects, here are some links to my other repositories and their respective websites.
 
@@ -16,7 +16,7 @@ If you are interested in my Pepites projects, here are some links to my other re
 | Drum Kit   | [Repo](https://github.com/nyukeit/js-drum-kit)   | [Website](https://mellow-sprinkles-fc02f5.netlify.app/) |
 | Dice Roll  | [Repo](https://github.com/nyukeit/js-dice-roll)  | [Website](https://js-drum-kit-nyukeit.netlify.app/)     |
 
-### DevOps
+## DevOps
 
 | Name                                | Repo Link                                                  | Website |
 | ----------------------------------- | ---------------------------------------------------------- | ------- |
