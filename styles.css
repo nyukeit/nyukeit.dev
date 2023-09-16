@@ -1,7 +1,47 @@
 body {
   font-family: 'Work Sans', sans-serif;
   color: #3C474B;
-  text-align: center;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+}
+
+.site-title {
+  padding: 0;
+}
+
+.subtitle {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.divider {
+  font-weight: 100;
+  font-size: 2em;
+  margin: 0 10px;
+}
+
+.col {
+  flex: 33;
+}
+
+.projects {
+  align-items: normal;
+  justify-content: start;
+}
+
+.categorydescription {
+  font-size: 0.8rem;
+}
+
+.fa-solid {
+  font-size: 0.8rem;
+  margin: 5px;
 }
 
 .snow {
@@ -14,22 +54,29 @@ body {
 
 h1 {
   font-weight: 700;
-  font-size: 3.5rem;
-  color: #3C474B;
+
 }
 
-h3 {
-  font-size: 2rem;
-  font-weight: 400;
+.social-links {
+  padding: 0;
 }
 
-.profile-links {
-  width: 2rem;
-  margin-right: 20px;
+.ml-20 {
+  margin-left: 20px;
+}
+
+#linkedin {
+  margin-left: 20px;
+}
+
+#blog {
+  margin-left: 20px;
 }
 
 a {
+  text-decoration: none;
   color: #3C474B;
+  cursor: pointer;
 }
 
 table {
