@@ -1,6 +1,7 @@
 body {
   font-family: 'Work Sans', sans-serif;
   color: #3C474B;
+  padding: 30px;
   margin: 0;
 }
 
@@ -8,7 +9,12 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 30px;
+  margin-bottom: 30px;
+  /* padding: 20px 30px; */
+}
+
+navbar {
+  border-bottom: #3C474B dashed 1px;
 }
 
 .site-title {
@@ -28,6 +34,7 @@ body {
 
 .col {
   flex: 33;
+  margin-right: 3em;
 }
 
 .projects {
@@ -35,8 +42,19 @@ body {
   justify-content: start;
 }
 
+.projectname {
+  margin: 30px 0;
+  display: block;
+}
+
+.projectname:hover {
+  font-weight: 600;
+}
+
 .categorydescription {
   font-size: 0.8rem;
+  margin-bottom: 40px;
+  color: #8c8c8c;
 }
 
 .fa-solid {
@@ -65,35 +83,13 @@ h1 {
   margin-left: 20px;
 }
 
-#linkedin {
-  margin-left: 20px;
-}
-
-#blog {
-  margin-left: 20px;
-}
-
 a {
   text-decoration: none;
   color: #3C474B;
   cursor: pointer;
 }
 
-table {
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 1%;
-  overflow-x: auto;
-  white-space: nowrap;
-}
-
-th,td {
-  text-align: left;
-  margin: 0px;
-  padding: 10px;
-}
-
-table,td,th {
-  border: #3C474B solid 1px;
-  border-collapse: collapse;
+footer {
+  position: absolute;
+  bottom: 0;
 }
